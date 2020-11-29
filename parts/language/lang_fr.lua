@@ -472,6 +472,10 @@ return{
 			password="Mot de passe",
 			password2="Confirmer le mot de passe",
 		},
+		netgame={ -- TODO: translation
+			title="Online game",
+			test="Test",
+		},
 		account={
 			title="Compte",
 		},

@@ -477,6 +477,10 @@ return{
 			password="Contraseña",
 			password2="Repetir Contr.",
 		},
+		netgame={ -- TODO: translation
+			title="Online game",
+			test="Test",
+		},
 		account={
 			title="Cuenta",
 		},

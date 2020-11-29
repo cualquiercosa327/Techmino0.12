@@ -498,6 +498,10 @@ return{
 			password="密码",
 			password2="确认密码",
 		},
+		netgame={
+			title="注册",
+			test="测试",
+		},
 		account={
 			title="账户",
 		},
