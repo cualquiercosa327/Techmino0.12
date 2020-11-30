@@ -210,6 +210,14 @@ return{
 			restart="Reiniciar (R)",
 			quit=	"Finalizar (Q)",
 		},
+		netgame={
+			-- ffa="FFA",
+			-- rooms="Rooms",
+			-- chat="Chat",
+		},
+		chat={
+			-- send="Send",
+		},
 		setting_game={
 			title="Ajustes del Juego",
 			graphic="←Video",

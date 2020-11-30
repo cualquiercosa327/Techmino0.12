@@ -206,6 +206,14 @@ return{
 			restart="Réessayer (R)",
 			quit="Quitter (Q)",
 		},
+		netgame={
+			-- ffa="FFA",
+			-- rooms="Rooms",
+			-- chat="Chat",
+		},
+		chat={
+			-- send="Send",
+		},
 		setting_game={
 			title="Paramètres du jeu",
 
