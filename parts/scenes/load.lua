@@ -117,7 +117,7 @@ function Tmr.load()
 			SFX.play("welcome_sfx")
 			VOC.play("welcome_voc")
 			httpRequest(TICK.httpREQ_launch,"/tech/api/v1/app/info")
-			if ACCOUNT.auth_token then
+			if ACCOUNT.auth_token and ACCOUNT.email then
 				local res=json.encode{
 					email=ACCOUNT.email,
 					auth_token=ACCOUNT.auth_token,

@@ -85,6 +85,8 @@ return{
 	registerFailed="Registro fallido.",
 	-- loginSuccessed="Successfully logged in!",
 	-- loginFailed="Login failed",
+	-- wsSuccessed="Websocket connected!",
+	-- wsFailed="Websocket failed to connect",
 
 	errorMsg="Ha ocurrido un error y Techmino necesita reiniciarse.\nSe creó un registro de error, puedes enviarlo al autor.",
 

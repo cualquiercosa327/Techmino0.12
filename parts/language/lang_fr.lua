@@ -84,6 +84,8 @@ return{
 	registerFailed="Erreur d'enregistrement",
 	-- loginSuccessed="Successfully logged in!",
 	-- loginFailed="Login failed",
+	-- wsSuccessed="Websocket connected!",
+	-- wsFailed="Websocket failed to connect",
 
 	errorMsg="Une erreur est survenue et Techmino doit redémarrer.\nDes informations concernant l'erreur ont été créées, et vous pouvez les envoyer au créateur.",
 
